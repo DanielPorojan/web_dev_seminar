@@ -24,28 +24,3 @@ body{
     float: right;
 }
 
-.game{
-    margin:10px;
-    padding: 10px;
-    padding-top:15px ;
-    border: 2px solid black;
-}
-
-.game-part{
-    box-sizing: content-box;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 10px;
-    width: 600px;
-    height: 400px;
-    
-}
-
-.bank{
-    padding: 10px;
-    padding-bottom:5px ;
-    border: 2px solid gray;
-    margin: 10px;
-    width: 50px;
-    height: 50px;
-}
